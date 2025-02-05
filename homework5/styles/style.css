@@ -1,0 +1,32 @@
+.block {
+    font-family: "Open Sans", serif;
+    font-size: 20px;
+    line-height: 30px;
+    width: 800px;
+}
+
+.block2 {
+    font-family: serif;
+    width: 800px;
+    text-decoration: line-through;
+}
+
+.block3 {
+    font-family: serif;
+    text-align: center;
+    width: 800px;
+    text-transform: uppercase;
+}
+
+.block5 {
+    font-family: serif;
+    word-spacing: 30px;
+    text-decoration: overline wavy;
+    text-shadow: 1px 1px 1px #7f40c3;
+}
+
+.block6 {
+    font-family: serif;
+    letter-spacing: 5px;
+    text-decoration: underline double;
+}
